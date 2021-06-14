@@ -3,10 +3,10 @@
 # ToGe
 
 Kelompok 8B
-Abdul Malik Karim Amrulloh (1906440593)
-Fadlurrahman Thorriq Musyaffa (1906381722)
-Mochamad Ferdy Fauzan (1906381741)
-Zidan Avecena Yahya (1906381691)
+1. Abdul Malik Karim Amrulloh (1906440593)
+2. Fadlurrahman Thorriq Musyaffa (1906381722)
+3. Mochamad Ferdy Fauzan (1906381741)
+4. Zidan Avecena Yahya (1906381691)
 
 
 Hal yang harus diperhatikan:
